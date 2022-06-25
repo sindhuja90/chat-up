@@ -2,10 +2,10 @@
   "name": "chatup",
   "version": "1.0.0",
   "description": "A real-time chatting app.",
-  "main": "app.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node app",
-    "dev": "nodemon app"
+    "start": "node server",
+    "dev": "nodemon server"
   },
   "author": "Sindhuja Sudhakar",
   "license": "ISC",
